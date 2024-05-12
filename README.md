@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Daianeleite
+- 👀 I’m interested in to increasingly deepen my knowledge in the technology area and prepare myself until I reach the dreamed opportunity as a systems developer. ...
+- 🌱 I’m course Systems Analysis and Development and I'm learning about object-oriented System Analysis Engineering and object-oriented Programming. Also reinforcing the fundamental part about Programming Logic. ...
+- 📫 How to reach me daiane.leiteksn@gmail.com ...
+
+<!---
+Daianeleite/Daianeleite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
